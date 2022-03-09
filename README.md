@@ -25,11 +25,11 @@
 
 
 ## What's This Project
-[![Crafting Calculator][product-screenshot]](https://slishy.com)
 <div align="center">
   <a href="https://github.com/cyavu/AlbionCraftCalculator">
     <img src="https://slishy.com/slishycom_preview_1.png" alt="Preview">
   </a>
+</div>
 
 Albion Online Craft Calculator is a crafting calculator for the free MMORPG game Albion Online. With this code you can search for an item that you would like to craft and instantly see which items are required to craft the given item. The code works with Albion Data Project to provide you prices for the item that you would like to craft and the items that are required for each city.
 
