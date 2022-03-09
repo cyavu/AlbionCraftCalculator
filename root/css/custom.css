@@ -1,0 +1,123 @@
+.priceConstr_header {
+    background-color: #4e73df;
+    color: #ffffff;
+}
+.blockquote-footer {
+width:110%;
+}
+.input-group {
+    width:85%;
+}
+.table td, .table th {
+    vertical-align: middle !important;
+}
+.table {
+    margin-bottom: 0 !important;
+}
+.table td, .table th {
+    padding: 0px !important;
+}
+td input {
+    width: 85%;
+}
+@media (min-width: 768px) {
+            .custom-control {
+                padding-left: 250px !important;
+            }
+        }
+.btn-thetford { 
+  color: #ffffff!important; 
+  background-color: #611BBD!important; 
+  border-color: #130269;
+} 
+ 
+.btn-thetford { 
+  color: #FFFFFF!important; 
+  background-color: #9715C2!important; 
+  border-color: #130269; 
+} 
+ 
+.btn-thetford:hover, 
+.btn-thetford:focus, 
+.btn-thetford:active, 
+.btn-thetford.active, 
+.open .dropdown-toggle.btn-thetford { 
+  color: #FFFFFF; 
+  background-color: #641996; 
+  border-color: #130269; 
+} 
+ 
+.btn-thetford:active, 
+.btn-thetford.active, 
+.open .dropdown-toggle.btn-thetford { 
+  background-image: none; 
+} 
+ 
+.btn-thetford.disabled, 
+.btn-thetford[disabled], 
+fieldset[disabled] .btn-thetford, 
+.btn-thetford.disabled:hover, 
+.btn-thetford[disabled]:hover, 
+fieldset[disabled] .btn-thetford:hover, 
+.btn-thetford.disabled:focus, 
+.btn-thetford[disabled]:focus, 
+fieldset[disabled] .btn-thetford:focus, 
+.btn-thetford.disabled:active, 
+.btn-thetford[disabled]:active, 
+fieldset[disabled] .btn-thetford:active, 
+.btn-thetford.disabled.active, 
+.btn-thetford[disabled].active, 
+fieldset[disabled] .btn-thetford.active { 
+  background-color: #9715C2; 
+  border-color: #130269; 
+} 
+ 
+.btn-thetford .badge { 
+  color: #9715C2; 
+  background-color: #FFFFFF; 
+}
+.badge-thetford { 
+  color: #FFFFFF!important; 
+  background-color: #9715C2!important; 
+  border-color: #130269; 
+} 
+ 
+.badge-thetford:hover, 
+.badge-thetford:focus, 
+.badge-thetford:active, 
+.badge-thetford.active, 
+.open .dropdown-toggle.badge-thetford { 
+  color: #FFFFFF; 
+  background-color: #641996; 
+  border-color: #130269; 
+} 
+ 
+.badge-thetford:active, 
+.badge-thetford.active, 
+.open .dropdown-toggle.badge-thetford { 
+  background-image: none; 
+} 
+ 
+.badge-thetford.disabled, 
+.badge-thetford[disabled], 
+fieldset[disabled] .badge-thetford, 
+.badge-thetford.disabled:hover, 
+.badge-thetford[disabled]:hover, 
+fieldset[disabled] .badge-thetford:hover, 
+.badge-thetford.disabled:focus, 
+.badge-thetford[disabled]:focus, 
+fieldset[disabled] .badge-thetford:focus, 
+.badge-thetford.disabled:active, 
+.badge-thetford[disabled]:active, 
+fieldset[disabled] .badge-thetford:active, 
+.badge-thetford.disabled.active, 
+.badge-thetford[disabled].active, 
+fieldset[disabled] .badge-thetford.active { 
+  background-color: #9715C2; 
+  border-color: #130269; 
+} 
+ 
+.badge-thetford .badge { 
+  color: #9715C2; 
+  background-color: #FFFFFF; 
+}

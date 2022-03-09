@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bridgewatch",
+        "buttonClass": "warning"
+        },
+    {
+        "name": "Carleon",
+        "buttonClass": "secondary"
+        },
+    {
+        "name": "Fortsterling",
+        "buttonClass": "light"
+        },
+    {
+        "name": "Lymhurst",
+        "buttonClass": "success"
+        },
+    {
+        "name": "Martlock",
+        "buttonClass": "info"
+        },
+    {
+        "name": "Thetford",
+        "buttonClass": "thetford"
+        }
+]
